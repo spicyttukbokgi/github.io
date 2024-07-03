@@ -1,5 +1,5 @@
 baseURL: "https://github.com/spicyttukbokgi/github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Jee In Chung, PhD.
 paginate: 20
 theme: PaperMod
 
@@ -28,8 +28,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "My name is Jee In Chung and I have a PhD in public administration from Seoul National University"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,12 +53,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Jee In Chung, PhD
+          subtitle: "My name is Jee In Chung and I have a PhD in Public Administration. My research focuses on social entrepreneurship and firm performance"
+          imageUrl: "정지인.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: 정지인
           buttons:
             - name: Papers
               url: papers/
@@ -80,7 +79,7 @@ params:
         - name: cv
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: jic285@snu.ac.kr
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -104,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Jee In Chung"
       icon: favicon.ico
       iconHeight: 18
 
